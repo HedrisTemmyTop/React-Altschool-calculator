@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## live link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live link](https://calculator.hedristemmytop.repl.co).
 
 ## Available Scripts
 
